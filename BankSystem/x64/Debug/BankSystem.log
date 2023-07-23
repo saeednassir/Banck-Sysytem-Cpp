@@ -1,0 +1,22 @@
+﻿  BankSystem.cpp
+H:\C++\11 - OOP as it Should Be (Applications)\BankSystem\BankSystem\clsString.h(39,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+H:\C++\11 - OOP as it Should Be (Applications)\BankSystem\BankSystem\clsString.h(44,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+H:\C++\11 - OOP as it Should Be (Applications)\BankSystem\BankSystem\clsString.h(56,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+H:\C++\11 - OOP as it Should Be (Applications)\BankSystem\BankSystem\clsString.h(193,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+H:\C++\11 - OOP as it Should Be (Applications)\BankSystem\BankSystem\clsString.h(324,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+H:\C++\11 - OOP as it Should Be (Applications)\BankSystem\BankSystem\clsString.h(372,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+H:\C++\11 - OOP as it Should Be (Applications)\BankSystem\BankSystem\clsUtil.h(66,9): warning C4102: 'defualt': unreferenced label
+H:\C++\11 - OOP as it Should Be (Applications)\BankSystem\BankSystem\clsUser.h(182,2): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+H:\C++\11 - OOP as it Should Be (Applications)\BankSystem\BankSystem\clsUser.h(27,9): message : see declaration of 'clsUser::stLoginRegisterRecord'
+H:\C++\11 - OOP as it Should Be (Applications)\BankSystem\BankSystem\clsInputValidate.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+H:\C++\11 - OOP as it Should Be (Applications)\BankSystem\BankSystem\clsInputValidate.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+H:\C++\11 - OOP as it Should Be (Applications)\BankSystem\BankSystem\clsInputValidate.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+H:\C++\11 - OOP as it Should Be (Applications)\BankSystem\BankSystem\clsBankClient.h(196,2): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLog' now defined to be 'public', previously it was defined to be 'private'
+H:\C++\11 - OOP as it Should Be (Applications)\BankSystem\BankSystem\clsBankClient.h(173,9): message : see declaration of 'clsBankClient::stTransferLog'
+H:\C++\11 - OOP as it Should Be (Applications)\BankSystem\BankSystem\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+H:\C++\11 - OOP as it Should Be (Applications)\BankSystem\BankSystem\clsUpdateRateScreen.h(21,10): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+H:\C++\11 - OOP as it Should Be (Applications)\BankSystem\BankSystem\clsCurrencyExchangeScreen.h(22,6): warning C4091: 'static ': ignored on left of 'clsCurrencyExchangeScreen::enCurrencyMenueOption' when no variable is declared
+H:\C++\11 - OOP as it Should Be (Applications)\BankSystem\BankSystem\clsBankClient.h(359): warning C4715: 'clsBankClient::Save': not all control paths return a value
+H:\C++\11 - OOP as it Should Be (Applications)\BankSystem\BankSystem\clsBankClient.h(425): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+H:\C++\11 - OOP as it Should Be (Applications)\BankSystem\BankSystem\clsUser.h(350): warning C4715: 'clsUser::Save': not all control paths return a value
+  BankSystem.vcxproj -> H:\C++\11 - OOP as it Should Be (Applications)\BankSystem\x64\Debug\BankSystem.exe
